@@ -79,7 +79,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 
 | # | Project | Status | Live Project |
 |---|---------|--------|--------------|
-| 1 | Tribute Website to A.P.J Abdul Kalam |✅ Completed | https://apj-op.vercel.app/ |
+| 1 | Tribute Website to A.P.J Abdul Kalam |✅ Completed | [Live Demo →](https://apj-op.vercel.app/)|
 | 2 | Coming Soon | ⏳ | — |
 | 3 | Coming Soon | ⏳ | — |
 | 4 | Coming Soon | ⏳ | — |
