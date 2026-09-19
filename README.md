@@ -73,7 +73,6 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 
 ---
 
-## 📋 Projects
 
 ## 📋 Projects
 
