@@ -77,7 +77,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | Coming Soon | ⏳ |
+| 1 | The Tribute Website | A.P.J Abdul Kalam |Done✅ -->  |
 | 2 | Coming Soon | ⏳ |
 | 3 | Coming Soon | ⏳ |
 | 4 | Coming Soon | ⏳ |
