@@ -75,18 +75,20 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 
 ## 📋 Projects
 
-| # | Project | Status |
-|---|---------|--------|
-| 1 | The Tribute Website | A.P.J Abdul Kalam |Done✅ -->  |
-| 2 | Coming Soon | ⏳ |
-| 3 | Coming Soon | ⏳ |
-| 4 | Coming Soon | ⏳ |
-| 5 | Coming Soon | ⏳ |
-| 6 | Coming Soon | ⏳ |
-| 7 | Coming Soon | ⏳ |
-| 8 | Coming Soon | ⏳ |
-| 9 | Coming Soon | ⏳ |
-| 10 | Coming Soon | ⏳ |
+## 📋 Projects
+
+| # | Project | Status | Live Project |
+|---|---------|--------|--------------|
+| 1 | The Tribute Website to A.P.J Abdul Kalam |✅ Completed | https://apj-op.vercel.app/ |
+| 2 | Coming Soon | ⏳ | — |
+| 3 | Coming Soon | ⏳ | — |
+| 4 | Coming Soon | ⏳ | — |
+| 5 | Coming Soon | ⏳ | — |
+| 6 | Coming Soon | ⏳ | — |
+| 7 | Coming Soon | ⏳ | — |
+| 8 | Coming Soon | ⏳ | — |
+| 9 | Coming Soon | ⏳ | — |
+| 10 | Coming Soon | ⏳ | — |
 
 > This table will be updated as each project is completed.
 
