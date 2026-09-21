@@ -1,3 +1,6 @@
+
+
+
 *{
     margin: 0;
     padding: 0;
@@ -8,8 +11,32 @@ html,
 body {
     line-height: 1.4;
     font-weight: 300;
+
+    
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    
+    
 }
 
 .hero_section{
-    
+    background-image: url(images/developer.png);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text_container{
+    color: white;
+    max-width: 900px;
+    margin: 0 auto ;
+    padding-top: 64px;
+    padding-left: 16px;
+}
+.lg_text{
+    font-size: 72px;
+    font-weight: 400;
 }
