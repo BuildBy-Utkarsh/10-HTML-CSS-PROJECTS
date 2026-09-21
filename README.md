@@ -80,7 +80,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 |---|---------|--------|--------------|
 | 1 | Tribute Website to A.P.J Abdul Kalam |✅ Completed | [Live Demo →](https://apj-op.vercel.app/)|
 | 2 | Job Application Form |✅ Completed  | [Live Demo →](https://job-form-bc9s.vercel.app/) |
-| 3 | Coming Soon | ⏳ | — |
+| 3 | parallax Website |✅ Completed | [Live Demo →](https://parallax-website-three-psi.vercel.app/) |
 | 4 | Coming Soon | ⏳ | — |
 | 5 | Coming Soon | ⏳ | — |
 | 6 | Coming Soon | ⏳ | — |
