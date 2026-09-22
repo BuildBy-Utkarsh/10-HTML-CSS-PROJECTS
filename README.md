@@ -82,7 +82,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 | 2 | Job Application Form |✅ Completed  | [Live Demo →](https://job-form-bc9s.vercel.app/) |
 | 3 | parallax Website |✅ Completed | [Live Demo →](https://parallax-website-three-vert.vercel.app/) |
 | 4 | Landing Page |✅ Completed | [Live Demo →](https://landing-page-mf-69.vercel.app/) |
-| 5 | Coming Soon | ⏳ | — |
+| 5 | Restaurant Website |✅ Completed | [Live Demo →](https://restaurant-website-21.vercel.app/) |
 | 6 | Coming Soon | ⏳ | — |
 | 7 | Coming Soon | ⏳ | — |
 | 8 | Coming Soon | ⏳ | — |
