@@ -84,7 +84,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 | 4 | Landing Page |✅ Completed | [Live Demo →](https://landing-page-mf-69.vercel.app/) |
 | 5 | Restaurant Website |✅ Completed | [Live Demo →](https://restaurant-website-21.vercel.app/) |
 | 6 | myTunes | ✅ Completed | [Live Demo →](https://mytunes-umber.vercel.app/) |
-| 7 | Coming Soon | ⏳ | — |
+| 7 | You Tube Clone |✅ Completed | [Live Demo →](https://yt-clone-ups.vercel.app/) |
 | 8 | Coming Soon | ⏳ | — |
 | 9 | Coming Soon | ⏳ | — |
 | 10 | Coming Soon | ⏳ | — |
