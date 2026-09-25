@@ -5,7 +5,7 @@
 }
 
 html,body {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto" , sans-serif;
     font-weight: 300;
     line-height: 1.4;
     scroll-behavior: smooth;
@@ -55,4 +55,50 @@ main{
 }
 section{
     margin-bottom: 50px;
+}
+
+section article {
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+section h2 {
+    padding-bottom: 10px;
+    font-size: 25px;
+    font-weight: 400;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+section article ul {
+    margin-left: 20px;
+
+}
+
+section article ul li {
+    margin-bottom: 10px;
+}
+
+code {
+white-space: pre-line;
+line-height: 2;
+background: #f7f7f7;
+padding: 15px;
+margin: 10px;
+border-radius: 5px;
+}
+
+@media (max-width : 480px) {
+    body {
+        flex-direction: column;
+    }
+
+    header { 
+        height: auto;
+        overflow: hidden;
+        overflow-y: scroll;
+    }
+    
 }
