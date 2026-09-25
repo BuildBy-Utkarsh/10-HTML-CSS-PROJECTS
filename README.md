@@ -85,7 +85,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 | 5 | Restaurant Website |✅ Completed | [Live Demo →](https://restaurant-website-21.vercel.app/) |
 | 6 | myTunes | ✅ Completed | [Live Demo →](https://mytunes-umber.vercel.app/) |
 | 7 | You Tube Clone |✅ Completed | [Live Demo →](https://yt-clone-ups.vercel.app/) |
-| 8 | Coming Soon | ⏳ | — |
+| 8 | JavaScript Documentation | ✅ Completed | [Live Demo →](https://javascript-documentaion-website.vercel.app/) |
 | 9 | Coming Soon | ⏳ | — |
 | 10 | Coming Soon | ⏳ | — |
 
