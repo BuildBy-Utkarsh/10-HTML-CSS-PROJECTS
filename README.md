@@ -87,7 +87,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 | 7 | You Tube Clone |✅ Completed | [Live Demo →](https://yt-clone-ups.vercel.app/) |
 | 8 | JavaScript Documentation | ✅ Completed | [Live Demo →](https://javascript-documentaion-website.vercel.app/) |
 | 9 | Blog Website | ✅ Completed | [Live Demo →](https://blog-website-21.vercel.app/) |
-| 10 |Portfolio Website  | ✅ Completed | — |
+| 10 |Portfolio Website  | ✅ Completed | coming soon |
 
 > This table will be updated as each project is completed.
 
