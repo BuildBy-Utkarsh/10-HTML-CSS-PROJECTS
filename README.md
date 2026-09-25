@@ -86,7 +86,7 @@ Just HTML, CSS, practice, and lots of debugging. 😄
 | 6 | myTunes | ✅ Completed | [Live Demo →](https://mytunes-umber.vercel.app/) |
 | 7 | You Tube Clone |✅ Completed | [Live Demo →](https://yt-clone-ups.vercel.app/) |
 | 8 | JavaScript Documentation | ✅ Completed | [Live Demo →](https://javascript-documentaion-website.vercel.app/) |
-| 9 | Coming Soon | ⏳ | — |
+| 9 | Blog Website | ✅ Completed | [Live Demo →](https://blog-website-21.vercel.app/) |
 | 10 | Coming Soon | ⏳ | — |
 
 > This table will be updated as each project is completed.
