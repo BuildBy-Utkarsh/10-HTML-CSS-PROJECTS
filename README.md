@@ -173,10 +173,10 @@ It helps support the project and motivates me to keep building and sharing what 
 
 ## 🚧 Status
 
-**🟢 In Progress**
+**🟢 Completed**
 
 10 projects.  
 1 foundation.  
 Countless lines of HTML & CSS.
 
-**Let's build. 🚀**
+**Onto next one. 🚀**
